@@ -339,8 +339,6 @@ const styles = StyleSheet.create({
         padding: 10,
         fontWeight:"bold",
         color:"black"
-
-
       },
       slots: {
         width: "100%",
